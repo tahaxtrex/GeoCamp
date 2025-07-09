@@ -1,4 +1,4 @@
-module.export = [
+module.exports = [
   {
     "area": "160.85",
     "coords": {
